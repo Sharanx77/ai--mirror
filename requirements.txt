@@ -1,0 +1,8 @@
+flask
+numpy
+opencv-python
+pillow
+keras
+torch
+torchvision
+tensorflow==2.13.0
